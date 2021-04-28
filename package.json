@@ -1,0 +1,19 @@
+{
+  "name": "@yv444/dummy-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yv444/dummy-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yv444/dummy-package/issues"
+  },
+  "homepage": "https://github.com/yv444/dummy-package#readme"
+}
